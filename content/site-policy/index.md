@@ -1,4 +1,4 @@
----
+          ---
 title: Site policy documentation
 shortTitle: Site policy
 redirect_from:
